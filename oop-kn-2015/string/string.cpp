@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+// Това трябва да се избягва!
 using namespace std;
 
 class String
